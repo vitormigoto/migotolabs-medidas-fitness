@@ -1,0 +1,16 @@
+.logo{
+    height:26px;
+}
+
+
+    .titulo{
+        color:#000AFF;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    .linkRight{
+        color:#000AFF;
+        padding-inline: 10px;        
+        font-size: 14px;
+    }
